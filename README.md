@@ -16,15 +16,14 @@ Perfect for developers and learners who want to:
 - ✍️ Upload or write code in a rich text editor.
 - 🤖 AI analyzes the code and provides feedback.
 - 📊 Suggestions for performance, readability, and best practices.
-- 🧠 Uses LLM APIs (like OpenAI/Gemini) for intelligent review.
+- 🧠 Uses LLM APIs (Gemini) for intelligent review.
 
 ## 🛠️ Tech Stack
 
 - **Frontend**: React, TailwindCSS
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **AI Integration**: OpenAI / Gemini API (configurable)
+- **AI Integration**: Gemini API
 
----
 
-Would you like help generating the full README including setup instructions, usage examples, and API routes?
+
+
